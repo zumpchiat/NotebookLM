@@ -2,7 +2,7 @@
 Projeto de criação para consulta em documentação do Django 6.0  
 
 
-##Notebook LM — https://notebooklm.google.com/notebook/926ddd5d-5272-4c4b-a53e-087ce3052437
+##Notebook LM — [Django Documentation 6.0]([https://www.google.com](https://notebooklm.google.com/notebook/926ddd5d-5272-4c4b-a53e-087ce3052437)) 
 
 
 ##DESCRIÇÃO
